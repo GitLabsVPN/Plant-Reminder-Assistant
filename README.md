@@ -32,7 +32,7 @@ This is a simple iPhone app that lets you set customized plant care reminders ba
 
 ### 📚 License
 
-[Add a license here, e.g. MIT License]
+Must use MIT License
 
 ### 💡 Future Enhancements
 
