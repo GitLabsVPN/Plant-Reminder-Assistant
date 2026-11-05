@@ -1,0 +1,4 @@
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>We need your location to set time zone-aware reminders.</string>
+<key>NSCameraUsageDescription</key>
+<string>We need access to the camera to take a photo of your plant.</string>
